@@ -1,1 +1,0 @@
-print("bilibili init run")

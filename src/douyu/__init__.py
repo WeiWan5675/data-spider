@@ -1,1 +1,0 @@
-print("douyu init run")
